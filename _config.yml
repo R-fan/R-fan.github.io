@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       R-fan blog
 email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      R-fan
+description: "A blog about stats, programming and R"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         ""
 date_format: "%b %-d, %Y"
 
 # Google services
